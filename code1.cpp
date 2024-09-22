@@ -20,5 +20,14 @@ int main(){
     int size = sizeof(d);
     cout<< "size of d is "<< size <<endl;
 
+    int b = 'b';
+    cout<<b<<endl;
+
+    char ch = 99;
+    cout<<ch<<endl;
+
+    unsigned int a = -112;
+    cout<<a<<endl;
+
 
 }
